@@ -2,3 +2,9 @@ html {
   height: 100%;
   width: 100%;
 }
+
+div {
+  background-color: crimson;
+  padding: 20px;
+  
+}
